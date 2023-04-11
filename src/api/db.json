@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "PC Lenovoooons",
+      "price": "1400008888",
+      "img": "product2.jpg",
+      "like": 0,
+      "quantity": "100444444",
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en pagesafa"
+    },
+    {
+      "id": 1,
+      "name": "PC Lenovoooons",
+      "price": "1400008888",
+      "img": "product2.jpg",
+      "like": 0,
+      "quantity": "100444444",
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en pagesafa"
+    }
+  ]
+}
